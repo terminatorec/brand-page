@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/brand-page/static/css/main.c42bfe9e.css",
+    "main.js": "/brand-page/static/js/main.862aaab4.js",
+    "static/js/787.b647ec38.chunk.js": "/brand-page/static/js/787.b647ec38.chunk.js",
+    "static/media/support.jpg": "/brand-page/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/brand-page/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/brand-page/index.html",
+    "main.c42bfe9e.css.map": "/brand-page/static/css/main.c42bfe9e.css.map",
+    "main.862aaab4.js.map": "/brand-page/static/js/main.862aaab4.js.map",
+    "787.b647ec38.chunk.js.map": "/brand-page/static/js/787.b647ec38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c42bfe9e.css",
+    "static/js/main.862aaab4.js"
+  ]
+}
